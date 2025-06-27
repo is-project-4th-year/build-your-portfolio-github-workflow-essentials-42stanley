@@ -2,23 +2,22 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Stanley Mwendwa Kyalo
+- **GitHub Username**: 42stanley
+- **Email**: stanley.mwendwa@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+[  _(Provide the live link to your deployed portfolio website)_](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-42stanley/)
 
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+- **Branching**: Helped me separate work for different features (e.g., navbar, header updates), making it easier to manage changes without conflicts.
+- **Commit Messages**: Using structured commit messages like `feat(header): add main title` improved tracking changes and communicating intent.
+- **Pull Requests**: Made it easier to review, merge and track progress for each task, even simulating a merge conflict as practice.
+- **Project Boards**: Gave me a clear visual of what’s done, in progress, or yet to start. It made managing tasks feel like a real software project.
 
-Example format:
-
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -33,20 +32,22 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![milestones screenshot](<milestones screenshot.png>)
+![issues screenshot](<issues screenshot.png>)
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![project board showing to do tasks](<to do screenshot.png>)
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![screenshot of branches from github](<branches github.png>)
+![screenshot of branches from vscode](<branches vscode.png>)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![screenshot of pull request](<pull request screenshot.png>)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![screenshot of merge conflict from commit history](<merge conflict screenshot.png>)
