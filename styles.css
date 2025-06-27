@@ -23,6 +23,32 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 10px;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.navbar li {
+    list-style-type: none;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+    background-color: #555;
+}
+
 section {
     padding: 20px;
 }
